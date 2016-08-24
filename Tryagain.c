@@ -82,5 +82,6 @@ hashCeck(item[],char input[])
 		findMin(a[]);
 	}
 	// if fine numbers returns null then no combination of items exist in the same file.
+	//else print sum and rest id check if all states are set.
 }
 	
